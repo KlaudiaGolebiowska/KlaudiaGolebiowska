@@ -1,16 +1,21 @@
-### Hi there 👋
+![cover](https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/img/readme.png)
 
-<!--
-**KlaudiaGolebiowska/KlaudiaGolebiowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome on my github, my name is Klaudia and I am aspiring frontend developer
 
-Here are some ideas to get you started:
+I am looking for an intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+
+🔭 I’m currently working on portfolio
+🌱 I’m currently learning JS & TypeScript
+👯 I’m looking to collaborate as intern / Junior Frontend Developer
+🤔 I’m looking for help with getting my first programming job
+💬 Ask me about women impact on Tech
+📫 How to reach me: [on LinkedIn](https://www.linkedin.com/in/kgolebiowska/)
+😄 Pronouns: She/her
+⚡ Fun fact: I was radio presenter, where I shared my love to science & culture
+
+### Click here to see what I am currently working on:
+https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/
+
+
