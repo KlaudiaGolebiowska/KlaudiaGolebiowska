@@ -1,6 +1,6 @@
 ![cover](https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/img/readme.png)
 
-# Welcome on my github, my name is Klaudia and I am aspiring frontend developer
+# Welcome on my github, <br> my name is Klaudia and I am aspiring frontend developer
 
 I am looking for an intern
 
