@@ -15,7 +15,9 @@ In my professional work, I took part in application tests, JavaScript and databa
 
 ⚡ Fun fact: I was radio presenter, where I shared my love to science & culture
 
-### Click here to see what I am currently working on:
+## Click here to see what I am currently working on:
 https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/
+
+📫 Reach me: [on LinkedIn](https://www.linkedin.com/in/kgolebiowska/)
 
 
