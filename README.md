@@ -1,5 +1,5 @@
 
-![cover](https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/img/looking.png)
+![cover](https://klaudiagolebiowska.github.io/CodersCamp2020.Project.HTML-CSS.BusinessCard/img/readme.png)
 # Welcome on my github  👋
 
 
