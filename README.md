@@ -3,7 +3,7 @@
 # Welcome on my github  👋
 
 
-I am a Product Owner,experienced System and Business Analyst looking for a new product to develop. I am an energetic, communicative person with 7 years of experience in project, event and customer service management. I am looking for opportunities to use my academic experience in coding in a friendly environment.  
+I am a Product Owner, experienced System and Business Analyst looking for a new product to develop. I am an energetic, communicative person with 7 years of experience in project, event and customer service management. I am looking for opportunities to use my academic experience in coding in a friendly environment.  
 
 I have been learning programming for three years:
 - Python - 8-month stationary seminar in SDA (including modules from algorithms, databases, frontend and backend)
